@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 //! lovepeople_calculadora_(app_1)
-//! 28.05.21
+//! 28.maio.21
 
 void main() {
   runApp(MyApp());

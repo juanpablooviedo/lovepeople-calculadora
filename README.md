@@ -1,6 +1,6 @@
-# app_calculadora
+## lovepeople-calculadora
 
-A new Flutter project.
+lovepeople-calculadora é um projeto de estudo em Flutter para o curso da Love People.
 
 ## Getting Started
 

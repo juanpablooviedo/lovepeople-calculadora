@@ -1,7 +1,7 @@
 ## lovepeople-calculadora
 
-É um app de calculadora com funções basicas. 
-É resultado de um projeto de estudo para o curso de Flutter da Love People.
+É um app de calculadora com funções básicas. 
+Este app é resultado de um projeto de estudo para o curso Flutter da Love People.
 
 ## Getting Started
 
